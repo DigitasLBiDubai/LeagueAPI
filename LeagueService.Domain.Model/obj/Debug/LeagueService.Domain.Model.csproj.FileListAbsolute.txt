@@ -1,0 +1,8 @@
+c:\users\soccolo\documents\visual studio 2012\Projects\LeagueService.Domain.Model\bin\Debug\LeagueService.Domain.Model.dll
+c:\users\soccolo\documents\visual studio 2012\Projects\LeagueService.Domain.Model\bin\Debug\LeagueService.Domain.Model.pdb
+c:\users\soccolo\documents\visual studio 2012\Projects\LeagueService.Domain.Model\obj\Debug\LeagueService.Domain.Model.dll
+c:\users\soccolo\documents\visual studio 2012\Projects\LeagueService.Domain.Model\obj\Debug\LeagueService.Domain.Model.pdb
+C:\Users\soccolo\Documents\Visual Studio 2012\Projects\LeagueService\LeagueService.Domain.Model\bin\Debug\LeagueService.Domain.Model.dll
+C:\Users\soccolo\Documents\Visual Studio 2012\Projects\LeagueService\LeagueService.Domain.Model\bin\Debug\LeagueService.Domain.Model.pdb
+C:\Users\soccolo\Documents\Visual Studio 2012\Projects\LeagueService\LeagueService.Domain.Model\obj\Debug\LeagueService.Domain.Model.dll
+C:\Users\soccolo\Documents\Visual Studio 2012\Projects\LeagueService\LeagueService.Domain.Model\obj\Debug\LeagueService.Domain.Model.pdb

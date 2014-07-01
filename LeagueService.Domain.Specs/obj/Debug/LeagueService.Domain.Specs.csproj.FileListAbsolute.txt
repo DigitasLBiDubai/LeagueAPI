@@ -1,0 +1,4 @@
+C:\Users\soccolo\Documents\Visual Studio 2012\Projects\LeagueService\LeagueService.Domain.Specs\bin\Debug\LeagueService.Domain.Specs.dll
+C:\Users\soccolo\Documents\Visual Studio 2012\Projects\LeagueService\LeagueService.Domain.Specs\bin\Debug\LeagueService.Domain.Specs.pdb
+C:\Users\soccolo\Documents\Visual Studio 2012\Projects\LeagueService\LeagueService.Domain.Specs\obj\Debug\LeagueService.Domain.Specs.dll
+C:\Users\soccolo\Documents\Visual Studio 2012\Projects\LeagueService\LeagueService.Domain.Specs\obj\Debug\LeagueService.Domain.Specs.pdb
