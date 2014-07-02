@@ -6,3 +6,8 @@ C:\Users\soccolo\Documents\Visual Studio 2012\Projects\LeagueService\LeagueServi
 C:\Users\soccolo\Documents\Visual Studio 2012\Projects\LeagueService\LeagueService.Domain.Model\bin\Debug\LeagueService.Domain.Model.pdb
 C:\Users\soccolo\Documents\Visual Studio 2012\Projects\LeagueService\LeagueService.Domain.Model\obj\Debug\LeagueService.Domain.Model.dll
 C:\Users\soccolo\Documents\Visual Studio 2012\Projects\LeagueService\LeagueService.Domain.Model\obj\Debug\LeagueService.Domain.Model.pdb
+C:\Users\soccolo\Documents\GitHub\LeagueAPI\LeagueService.Domain.Model\bin\Debug\LeagueService.Domain.Model.dll
+C:\Users\soccolo\Documents\GitHub\LeagueAPI\LeagueService.Domain.Model\bin\Debug\LeagueService.Domain.Model.pdb
+C:\Users\soccolo\Documents\GitHub\LeagueAPI\LeagueService.Domain.Model\obj\Debug\LeagueService.Domain.Model.dll
+C:\Users\soccolo\Documents\GitHub\LeagueAPI\LeagueService.Domain.Model\obj\Debug\LeagueService.Domain.Model.pdb
+C:\Users\soccolo\Documents\GitHub\LeagueAPI\LeagueService.Domain.Model\obj\Debug\LeagueService.Domain.Model.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\soccolo\Documents\GitHub\LeagueAPI\LeagueService.Web.Interface.Specs\bin\Debug\LeagueService.Web.Interface.Specs.dll.config
+C:\Users\soccolo\Documents\GitHub\LeagueAPI\LeagueService.Web.Interface.Specs\bin\Debug\LeagueService.Web.Interface.Specs.dll
+C:\Users\soccolo\Documents\GitHub\LeagueAPI\LeagueService.Web.Interface.Specs\bin\Debug\LeagueService.Web.Interface.Specs.pdb
+C:\Users\soccolo\Documents\GitHub\LeagueAPI\LeagueService.Web.Interface.Specs\bin\Debug\nunit.framework.dll
+C:\Users\soccolo\Documents\GitHub\LeagueAPI\LeagueService.Web.Interface.Specs\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\soccolo\Documents\GitHub\LeagueAPI\LeagueService.Web.Interface.Specs\bin\Debug\nunit.framework.xml
+C:\Users\soccolo\Documents\GitHub\LeagueAPI\LeagueService.Web.Interface.Specs\obj\Debug\LeagueService.Web.Interface.Specs.dll
+C:\Users\soccolo\Documents\GitHub\LeagueAPI\LeagueService.Web.Interface.Specs\obj\Debug\LeagueService.Web.Interface.Specs.pdb

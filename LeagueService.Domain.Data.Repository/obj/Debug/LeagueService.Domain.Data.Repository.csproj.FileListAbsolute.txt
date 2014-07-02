@@ -26,3 +26,17 @@ C:\Users\soccolo\Documents\Visual Studio 2012\Projects\LeagueService\LeagueServi
 C:\Users\soccolo\Documents\Visual Studio 2012\Projects\LeagueService\LeagueService.Domain.Data.Repository\obj\Debug\LeagueService.Domain.Data.Repository.csprojResolveAssemblyReference.cache
 C:\Users\soccolo\Documents\Visual Studio 2012\Projects\LeagueService\LeagueService.Domain.Data.Repository\obj\Debug\LeagueService.Domain.Data.Repository.dll
 C:\Users\soccolo\Documents\Visual Studio 2012\Projects\LeagueService\LeagueService.Domain.Data.Repository\obj\Debug\LeagueService.Domain.Data.Repository.pdb
+C:\Users\soccolo\Documents\GitHub\LeagueAPI\LeagueService.Domain.Data.Repository\bin\Debug\LeagueService.Domain.Data.Repository.dll.config
+C:\Users\soccolo\Documents\GitHub\LeagueAPI\LeagueService.Domain.Data.Repository\bin\Debug\LeagueService.Domain.Data.Repository.dll
+C:\Users\soccolo\Documents\GitHub\LeagueAPI\LeagueService.Domain.Data.Repository\bin\Debug\LeagueService.Domain.Data.Repository.pdb
+C:\Users\soccolo\Documents\GitHub\LeagueAPI\LeagueService.Domain.Data.Repository\bin\Debug\EntityFramework.dll
+C:\Users\soccolo\Documents\GitHub\LeagueAPI\LeagueService.Domain.Data.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\soccolo\Documents\GitHub\LeagueAPI\LeagueService.Domain.Data.Repository\bin\Debug\LeagueService.Domain.Data.dll
+C:\Users\soccolo\Documents\GitHub\LeagueAPI\LeagueService.Domain.Data.Repository\bin\Debug\LeagueService.Domain.Model.dll
+C:\Users\soccolo\Documents\GitHub\LeagueAPI\LeagueService.Domain.Data.Repository\bin\Debug\LeagueService.Domain.Data.pdb
+C:\Users\soccolo\Documents\GitHub\LeagueAPI\LeagueService.Domain.Data.Repository\bin\Debug\EntityFramework.xml
+C:\Users\soccolo\Documents\GitHub\LeagueAPI\LeagueService.Domain.Data.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\soccolo\Documents\GitHub\LeagueAPI\LeagueService.Domain.Data.Repository\bin\Debug\LeagueService.Domain.Model.pdb
+C:\Users\soccolo\Documents\GitHub\LeagueAPI\LeagueService.Domain.Data.Repository\obj\Debug\LeagueService.Domain.Data.Repository.csprojResolveAssemblyReference.cache
+C:\Users\soccolo\Documents\GitHub\LeagueAPI\LeagueService.Domain.Data.Repository\obj\Debug\LeagueService.Domain.Data.Repository.dll
+C:\Users\soccolo\Documents\GitHub\LeagueAPI\LeagueService.Domain.Data.Repository\obj\Debug\LeagueService.Domain.Data.Repository.pdb

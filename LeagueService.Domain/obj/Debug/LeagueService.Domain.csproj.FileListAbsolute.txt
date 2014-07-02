@@ -28,3 +28,18 @@ C:\Users\soccolo\Documents\Visual Studio 2012\Projects\LeagueService\LeagueServi
 C:\Users\soccolo\Documents\Visual Studio 2012\Projects\LeagueService\LeagueService.Domain\obj\Debug\LeagueService.Domain.csprojResolveAssemblyReference.cache
 C:\Users\soccolo\Documents\Visual Studio 2012\Projects\LeagueService\LeagueService.Domain\obj\Debug\LeagueService.Domain.dll
 C:\Users\soccolo\Documents\Visual Studio 2012\Projects\LeagueService\LeagueService.Domain\obj\Debug\LeagueService.Domain.pdb
+C:\Users\soccolo\Documents\GitHub\LeagueAPI\LeagueService.Domain\bin\Debug\LeagueService.Domain.dll
+C:\Users\soccolo\Documents\GitHub\LeagueAPI\LeagueService.Domain\bin\Debug\LeagueService.Domain.pdb
+C:\Users\soccolo\Documents\GitHub\LeagueAPI\LeagueService.Domain\bin\Debug\LeagueService.Domain.Data.Repository.dll
+C:\Users\soccolo\Documents\GitHub\LeagueAPI\LeagueService.Domain\bin\Debug\LeagueService.Domain.Model.dll
+C:\Users\soccolo\Documents\GitHub\LeagueAPI\LeagueService.Domain\bin\Debug\EntityFramework.dll
+C:\Users\soccolo\Documents\GitHub\LeagueAPI\LeagueService.Domain\bin\Debug\LeagueService.Domain.Data.dll
+C:\Users\soccolo\Documents\GitHub\LeagueAPI\LeagueService.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\soccolo\Documents\GitHub\LeagueAPI\LeagueService.Domain\bin\Debug\LeagueService.Domain.Data.Repository.pdb
+C:\Users\soccolo\Documents\GitHub\LeagueAPI\LeagueService.Domain\bin\Debug\LeagueService.Domain.Model.pdb
+C:\Users\soccolo\Documents\GitHub\LeagueAPI\LeagueService.Domain\bin\Debug\EntityFramework.xml
+C:\Users\soccolo\Documents\GitHub\LeagueAPI\LeagueService.Domain\bin\Debug\LeagueService.Domain.Data.pdb
+C:\Users\soccolo\Documents\GitHub\LeagueAPI\LeagueService.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\soccolo\Documents\GitHub\LeagueAPI\LeagueService.Domain\obj\Debug\LeagueService.Domain.csprojResolveAssemblyReference.cache
+C:\Users\soccolo\Documents\GitHub\LeagueAPI\LeagueService.Domain\obj\Debug\LeagueService.Domain.dll
+C:\Users\soccolo\Documents\GitHub\LeagueAPI\LeagueService.Domain\obj\Debug\LeagueService.Domain.pdb

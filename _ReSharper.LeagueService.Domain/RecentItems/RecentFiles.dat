@@ -6,15 +6,20 @@
     <File id="ED88BF1E-BDBC-4AF6-AB97-D2247EE64261/f:Global.asax.cs" caret="779" fromTop="22" />
     <File id="CFAD1BCC-A4E4-40D8-99F5-1BE87F63C3DB/d:Migrations/f:Configuration.cs" caret="375" fromTop="12" />
     <File id="CFAD1BCC-A4E4-40D8-99F5-1BE87F63C3DB/d:Migrations/f:201407010641124_Creation.cs" caret="274" fromTop="10" />
-    <File id="5C587545-C706-4C83-9DE9-CBEA1E272708/d:Concrete/f:MatchService.cs" caret="476" fromTop="14" />
-    <File id="D4FFDEAE-9D00-4E4D-B0BA-B65EAA760048/d:Concrete/f:LeagueServiceRepository.cs" caret="895" fromTop="29" />
     <File id="ED88BF1E-BDBC-4AF6-AB97-D2247EE64261/f:Web.config" caret="1146" fromTop="18" />
-    <File id="ED88BF1E-BDBC-4AF6-AB97-D2247EE64261/d:Controllers/f:MatchController.cs" caret="960" fromTop="32" />
     <File id="ED88BF1E-BDBC-4AF6-AB97-D2247EE64261/d:Controllers/f:ScoreController.cs" caret="1252" fromTop="38" />
     <File id="ED88BF1E-BDBC-4AF6-AB97-D2247EE64261/d:Controllers/f:TeamController.cs" caret="649" fromTop="21" />
-    <File id="5B8290BC-F18E-4226-8192-4BC504EB7ABE/f:Match.cs" caret="345" fromTop="13" />
-    <File id="5B8290BC-F18E-4226-8192-4BC504EB7ABE/f:Score.cs" caret="467" fromTop="18" />
-    <File id="5B8290BC-F18E-4226-8192-4BC504EB7ABE/f:Team.cs" caret="526" fromTop="21" />
+    <File id="CFAD1BCC-A4E4-40D8-99F5-1BE87F63C3DB/d:Migrations/f:201407011042096_UpdatedTeam.cs" caret="295" fromTop="10" />
+    <File id="5B8290BC-F18E-4226-8192-4BC504EB7ABE/f:Team.cs" caret="398" fromTop="14" />
+    <File id="5B8290BC-F18E-4226-8192-4BC504EB7ABE/f:Score.cs" caret="0" fromTop="0" />
+    <File id="5B8290BC-F18E-4226-8192-4BC504EB7ABE/f:Match.cs" caret="603" fromTop="23" />
+    <File id="D4FFDEAE-9D00-4E4D-B0BA-B65EAA760048/d:Concrete/f:LeagueServiceRepository.cs" caret="1640" fromTop="29" />
+    <File id="5C587545-C706-4C83-9DE9-CBEA1E272708/d:Abstract/f:BaseService.cs" caret="419" fromTop="16" />
+    <File id="5C587545-C706-4C83-9DE9-CBEA1E272708/d:Concrete/f:MatchService.cs" caret="776" fromTop="28" />
+    <File id="ED88BF1E-BDBC-4AF6-AB97-D2247EE64261/d:Controllers/f:MatchController.cs" caret="646" fromTop="13" />
+    <File id="EE6A1D59-55CE-4623-9DC3-85A0EA229EB6/f:StartMatch.feature.cs" caret="869" fromTop="20" />
+    <File id="EE6A1D59-55CE-4623-9DC3-85A0EA229EB6/f:StartMatchSteps.cs" caret="662" fromTop="21" />
+    <File id="EE6A1D59-55CE-4623-9DC3-85A0EA229EB6/f:StartMatch.feature" caret="411" fromTop="14" />
   </RecentFiles>
   <RecentEdits>
     <File id="ED88BF1E-BDBC-4AF6-AB97-D2247EE64261/d:App_Start/f:IocConfig.cs" caret="967" fromTop="32" />
@@ -28,6 +33,7 @@
     <File id="ED88BF1E-BDBC-4AF6-AB97-D2247EE64261/d:Controllers/f:TeamController.cs" caret="780" fromTop="28" />
     <File id="5B8290BC-F18E-4226-8192-4BC504EB7ABE/f:Match.cs" caret="236" fromTop="9" />
     <File id="5B8290BC-F18E-4226-8192-4BC504EB7ABE/f:Score.cs" caret="463" fromTop="17" />
-    <File id="5B8290BC-F18E-4226-8192-4BC504EB7ABE/f:Team.cs" caret="461" fromTop="17" />
+    <File id="5B8290BC-F18E-4226-8192-4BC504EB7ABE/f:Team.cs" caret="619" fromTop="23" />
+    <File id="EE6A1D59-55CE-4623-9DC3-85A0EA229EB6/f:StartMatch.feature" caret="411" fromTop="14" />
   </RecentEdits>
 </RecentFiles>
