@@ -15,7 +15,19 @@ namespace LeagueService.Domain.Model
         public int Id { get; set; }
 
         [Required]
+        [DataMember]
+        public int MatchId { get; set; }
+
+        [Required]
+        [DataMember]
+        public int PlayerId { get; set; }
+
+        [Required]
+        [DataMember]
+        public int Points { get; set; }
+
+        [Required]
         [DataMember(IsRequired = true)]
-        public DateTime DateTime { get; set; }
+        public DateTime UtcDateTime { get; set; }
     }
 }

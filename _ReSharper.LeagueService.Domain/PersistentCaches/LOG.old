@@ -1,5 +1,5 @@
-2014/07/01-13:43:31.971 2ab8 Recovering log #6
-2014/07/01-13:43:31.972 2ab8 Level-0 table #8: started
-2014/07/01-13:43:31.982 2ab8 Level-0 table #8: 28172 bytes OK
-2014/07/01-13:43:31.996 2ab8 Delete type=0 #6
-2014/07/01-13:43:31.996 2ab8 Delete type=3 #4
+2014/07/08-15:58:43.120 7b8 Recovering log #22
+2014/07/08-15:58:43.120 7b8 Level-0 table #24: started
+2014/07/08-15:58:43.128 7b8 Level-0 table #24: 38450 bytes OK
+2014/07/08-15:58:43.134 7b8 Delete type=0 #22
+2014/07/08-15:58:43.135 7b8 Delete type=3 #20

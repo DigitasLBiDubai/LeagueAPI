@@ -41,9 +41,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Abstract\BaseService.cs" />
+    <Compile Include="Abstract\IPlayerService.cs" />
     <Compile Include="Abstract\IMatchService.cs" />
     <Compile Include="Abstract\IScoreService.cs" />
     <Compile Include="Abstract\ITeamService.cs" />
+    <Compile Include="Concrete\PlayerService.cs" />
     <Compile Include="Concrete\ScoreService.cs" />
     <Compile Include="Concrete\MatchService.cs" />
     <Compile Include="Concrete\TeamService.cs" />

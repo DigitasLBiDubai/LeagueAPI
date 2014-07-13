@@ -1,33 +1,56 @@
-﻿using System;
+﻿using System.Collections.Generic;
+using System.Net.Http;
+using LeagueService.Domain.Model;
+using LeagueService.Web.Interface.Controllers;
+using LeagueService.Web.Interface.Specs.Mock;
+using NUnit.Framework;
 using TechTalk.SpecFlow;
+using System;
 
 namespace LeagueService.Web.Interface.Specs
 {
     [Binding]
     public class StartMatchSteps
     {
-        [Given(@"I want to start playing a new match")]
-        public void GivenIWantToStartPlayingANewMatch()
+        private readonly MatchController _matchController = MatchControllersForStartMatchFeature.MockMatchController();
+
+        private List<Match> Matches { get; set; }
+        private List<HttpResponseMessage> HttpResponseMessages { get; set; }
+
+        [Given(@"the match api recieves a post requested with the following parameters")]
+        public void GivenTheMatchApiRecievesAPostRequestedWithTheFollowingParameters(Table table)
         {
-            ScenarioContext.Current.Pending();
+            Matches = new List<Match>();
+
+            foreach (var row in table.Rows)
+            {
+                var newMatch = new Match();
+
+                if (!string.IsNullOrEmpty(row["UtcStartDateTime"]))
+                    newMatch.UtcStartDateTime = DateTime.Parse(row["UtcStartDateTime"]);
+
+                if (!string.IsNullOrEmpty(row["UtcEndDateTime"]))
+                    newMatch.UtcEndDateTime = DateTime.Parse(row["UtcEndDateTime"]);
+                
+                Matches.Add(newMatch);
+            }
         }
-        
-        [When(@"I am passed the start date of the match by the fooseball table")]
-        public void WhenIAmPassedTheStartDateOfTheMatchByTheFooseballTable()
+
+        [When(@"the request is processed")]
+        public void WhenTheRequestIsProcessed()
         {
-            ScenarioContext.Current.Pending();
+            HttpResponseMessages = new List<HttpResponseMessage>();
+
+            foreach (var match in Matches)
+            {
+                HttpResponseMessages.Add(_matchController.Post(match));
+            }
         }
-        
-        [Then(@"(.*) is created")]
-        public void ThenIsCreated(string p0)
+
+        [Then(@"the response parameters should be the following")]
+        public void ThenTheResponseParametersShouldBeTheFollowing(Table table)
         {
-            ScenarioContext.Current.Pending();
-        }
-        
-        [Then(@"(.*) is assigned to the match")]
-        public void ThenIsAssignedToTheMatch(string p0, Table table)
-        {
-            ScenarioContext.Current.Pending();
+            Assert.IsFalse(true);
         }
     }
 }

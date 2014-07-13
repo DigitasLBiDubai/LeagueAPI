@@ -12,7 +12,17 @@ namespace LeagueService.Web.Interface.Controllers
 {
     public class MatchController : ApiController
     {
-        private readonly IMatchService _matchService = new MatchService(new LeagueServiceRepository());
+        private readonly IMatchService _matchService;
+
+        public MatchController()
+        {
+            _matchService = new MatchService(new LeagueServiceRepository());
+        }
+
+        public MatchController(IMatchService matchService)
+        {
+            _matchService = matchService;
+        }
 
         public IEnumerable<Match> Get()
         {
@@ -28,15 +38,15 @@ namespace LeagueService.Web.Interface.Controllers
 
         // POST api/values
         public HttpResponseMessage Post([FromBody]Match value)
-        { // Body: { "Id":"0", "StartDateTime":"22/10/2014 20:00:00" }
+        { // Body: { "UtcStartDateTime":"10/10/2014 20:00:00", "UtcEndDateTime":"10/10/2014 20:00:00" }
 
             if (!ModelState.IsValid)
             {
                 return new HttpResponseMessage { StatusCode = HttpStatusCode.BadRequest, ReasonPhrase = "Model invalid" };
             }
 
-            _matchService.Create(value);
-            return new HttpResponseMessage { StatusCode = HttpStatusCode.OK, ReasonPhrase = "Match Created" };
+            var match = _matchService.Create(value);
+            return Request.CreateResponse(HttpStatusCode.Created, match.Id); ;
         }
 
         // PUT api/values/5

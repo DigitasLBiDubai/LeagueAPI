@@ -39,3 +39,4 @@ C:\Users\soccolo\Documents\GitHub\LeagueAPI\LeagueService.Domain.Data\obj\Debug\
 C:\Users\soccolo\Documents\GitHub\LeagueAPI\LeagueService.Domain.Data\obj\Debug\LeagueService.Domain.Data.dll
 C:\Users\soccolo\Documents\GitHub\LeagueAPI\LeagueService.Domain.Data\obj\Debug\LeagueService.Domain.Data.pdb
 C:\Users\soccolo\Documents\GitHub\LeagueAPI\LeagueService.Domain.Data\obj\Debug\LeagueService.Domain.Data.Migrations.UpdatedTeam.resources
+C:\Users\soccolo\Documents\GitHub\LeagueAPI\LeagueService.Domain.Data\obj\Debug\LeagueService.Domain.Data.Migrations.UpdatedAllSchema.resources

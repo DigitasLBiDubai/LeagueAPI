@@ -3,7 +3,7 @@
   <Module PersistentId="D4FFDEAE-9D00-4E4D-B0BA-B65EAA760048" ModuleId="LeagueService.Domain.Data.Repository" />
   <Module PersistentId="5C587545-C706-4C83-9DE9-CBEA1E272708" ModuleId="LeagueService.Domain" />
   <Module PersistentId="CFAD1BCC-A4E4-40D8-99F5-1BE87F63C3DB" ModuleId="LeagueService.Domain.Data" />
-  <Module PersistentId="0957D5E2-4821-46FD-95D4-BCFB5C0E7EB6" ModuleId="LeagueService.Domain.Specs" />
   <Module PersistentId="5B8290BC-F18E-4226-8192-4BC504EB7ABE" ModuleId="LeagueService.Domain.Model" />
   <Module PersistentId="EE6A1D59-55CE-4623-9DC3-85A0EA229EB6" ModuleId="LeagueService.Web.Interface.Specs" />
+  <Module PersistentId="Moq, Version=4.2.1402.2112, Culture=neutral, PublicKeyToken=69f491c39445e920" ModuleId="Moq" />
 </Modules>

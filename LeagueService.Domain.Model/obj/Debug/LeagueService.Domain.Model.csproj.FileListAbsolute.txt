@@ -10,4 +10,3 @@ C:\Users\soccolo\Documents\GitHub\LeagueAPI\LeagueService.Domain.Model\bin\Debug
 C:\Users\soccolo\Documents\GitHub\LeagueAPI\LeagueService.Domain.Model\bin\Debug\LeagueService.Domain.Model.pdb
 C:\Users\soccolo\Documents\GitHub\LeagueAPI\LeagueService.Domain.Model\obj\Debug\LeagueService.Domain.Model.dll
 C:\Users\soccolo\Documents\GitHub\LeagueAPI\LeagueService.Domain.Model\obj\Debug\LeagueService.Domain.Model.pdb
-C:\Users\soccolo\Documents\GitHub\LeagueAPI\LeagueService.Domain.Model\obj\Debug\LeagueService.Domain.Model.csprojResolveAssemblyReference.cache

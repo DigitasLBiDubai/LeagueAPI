@@ -73,24 +73,56 @@ namespace LeagueService.Web.Interface.Specs
                         "mytag"});
 #line 7
 this.ScenarioSetup(scenarioInfo);
-#line 8
- testRunner.Given("I want to start playing a new match", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
-#line 9
- testRunner.When("I am passed the start date of the match by the fooseball table", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
-#line 10
- testRunner.Then("<MatchId> is created", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
 #line hidden
             TechTalk.SpecFlow.Table table1 = new TechTalk.SpecFlow.Table(new string[] {
-                        "MatchId",
-                        "StartDate"});
+                        "UtcStartDateTime",
+                        "UtcEndDateTime"});
             table1.AddRow(new string[] {
+                        "01/07/2014 20:00:00",
+                        "01/07/2014 22:00:00"});
+            table1.AddRow(new string[] {
+                        "02/07/2014 20:00:00",
+                        "02/07/2014 22:00:00"});
+            table1.AddRow(new string[] {
+                        "02/07/2014 20:00:00",
+                        "01/07/2014 22:00:00"});
+            table1.AddRow(new string[] {
+                        "",
+                        "02/07/2014 22:00:00"});
+            table1.AddRow(new string[] {
+                        "01/07/2014 20:00:00",
+                        ""});
+            table1.AddRow(new string[] {
+                        "",
+                        ""});
+#line 8
+ testRunner.Given("the match api recieves a post requested with the following parameters", ((string)(null)), table1, "Given ");
+#line 16
+ testRunner.When("the request is processed", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
+#line hidden
+            TechTalk.SpecFlow.Table table2 = new TechTalk.SpecFlow.Table(new string[] {
+                        "Id",
+                        "HttpResponseCode"});
+            table2.AddRow(new string[] {
                         "1",
-                        "01/07/2014"});
-            table1.AddRow(new string[] {
+                        "201"});
+            table2.AddRow(new string[] {
                         "2",
-                        "02/07/2014"});
-#line 11
- testRunner.And("<StartDate> is assigned to the match", ((string)(null)), table1, "And ");
+                        "201"});
+            table2.AddRow(new string[] {
+                        "0",
+                        "400"});
+            table2.AddRow(new string[] {
+                        "0",
+                        "400"});
+            table2.AddRow(new string[] {
+                        "0",
+                        "400"});
+            table2.AddRow(new string[] {
+                        "0",
+                        "400"});
+#line 17
+ testRunner.Then("the response parameters should be the following", ((string)(null)), table2, "Then ");
 #line hidden
             this.ScenarioCleanup();
         }

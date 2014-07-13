@@ -30,6 +30,7 @@ namespace LeagueService.Web.Interface
 
             // Services
             builder.RegisterType<MatchService>().As<IMatchService>().SingleInstance();
+            builder.RegisterType<PlayerService>().As<IPlayerService>().SingleInstance();
             builder.RegisterType<ScoreService>().As<IScoreService>().SingleInstance();
             builder.RegisterType<TeamService>().As<ITeamService>().SingleInstance();
 

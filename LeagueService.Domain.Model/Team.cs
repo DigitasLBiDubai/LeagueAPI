@@ -16,10 +16,13 @@ namespace LeagueService.Domain.Model
         public int Id { get; set; }
 
         [DataMember]
-        public string UserId { get; set; }
+        public string Name { get; set; }
+
+        [DataMember]
+        public virtual List<Player> Players { get; set; }
 
         [Required]
         [DataMember(IsRequired = true)]
-        public DateTime DateCreated { get; set; }
+        public DateTime UtcDateCreated { get; set; }
     }
 }

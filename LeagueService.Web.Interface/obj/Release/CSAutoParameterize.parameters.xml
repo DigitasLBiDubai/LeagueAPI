@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="LeagueService.Data-Web.config Connection String" description="LeagueService.Data Connection String used in web.config by the application to access the database." defaultValue="Server=tcp:okb10t5drk.database.windows.net,1433;Database=LeagueSAXghcT2le;User ID=digitaslbiadminlogin@okb10t5drk;Password=D1g1t45lb1321;Trusted_Connection=False;Encrypt=True;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\soccolo\\Documents\\GitHub\\LeagueAPI\\LeagueService\.Web\.Interface\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='LeagueService.Data']/@connectionString" />
+  </parameter>
+</parameters>
